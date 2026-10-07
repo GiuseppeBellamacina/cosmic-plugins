@@ -10,7 +10,7 @@
     {
       "name": "setup-sync",
       "description": "Push/pull your whole Claude Code setup (settings, plugins, MCP servers, skills, agents, hooks, LSP, mods) to a local folder; the agent replays the install of external tools on a new machine.",
-      "source": { "source": "github", "repo": "GiuseppeBellamacina/claude-code-sync" },
+      "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/claude-code-sync.git" },
       "category": "productivity",
       "keywords": ["sync", "backup", "dotfiles", "migration"]
     }
