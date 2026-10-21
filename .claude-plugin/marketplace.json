@@ -23,7 +23,7 @@
     },
     {
       "name": "prompt-queue",
-      "description": "/queue on: messages sent while Claude works wait until the current task is finished, in an editable queue above the prompt. /now <message>: interrupt and send at once. /queue off: back to normal.",
+      "description": "Type >> on and messages sent while Claude works wait until the current task is finished, in an editable queue above the prompt; >> off is back to normal, and >> lines never reach Claude's history. /now <message> interrupts and sends at once.",
       "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/prompt-queue.git" },
       "category": "productivity",
       "keywords": ["queue", "prompt", "steering", "interrupt", "mod"]
