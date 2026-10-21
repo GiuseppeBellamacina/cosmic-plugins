@@ -13,6 +13,13 @@
       "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/claude-code-sync.git" },
       "category": "productivity",
       "keywords": ["sync", "backup", "dotfiles", "migration"]
+    },
+    {
+      "name": "pr-review-helper",
+      "description": "Find open GitHub pull requests with no review yet (by repo, user or topic, sorted by popularity or date) and write targeted reviews you confirm before they are posted under your own account.",
+      "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/pr-review-helper.git" },
+      "category": "development",
+      "keywords": ["github", "pull-requests", "code-review", "gh"]
     }
   ]
 }
