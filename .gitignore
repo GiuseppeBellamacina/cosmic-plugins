@@ -2,3 +2,4 @@
 # listed in .claude-plugin/marketplace.json. Do not commit them into the catalog repo.
 claude-code-sync/
 pr-review-helper/
+prompt-queue/

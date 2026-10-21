@@ -20,6 +20,13 @@
       "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/pr-review-helper.git" },
       "category": "development",
       "keywords": ["github", "pull-requests", "code-review", "gh"]
+    },
+    {
+      "name": "prompt-queue",
+      "description": "Decide what happens to a message sent while Claude works: steer the running task, queue it until the task is finished, or interrupt and send it now, with an editable queue above the prompt.",
+      "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/prompt-queue.git" },
+      "category": "productivity",
+      "keywords": ["queue", "prompt", "steering", "interrupt", "mod"]
     }
   ]
 }
