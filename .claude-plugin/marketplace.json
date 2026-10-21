@@ -27,6 +27,13 @@
       "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/prompt-queue.git" },
       "category": "productivity",
       "keywords": ["queue", "prompt", "steering", "interrupt", "mod"]
+    },
+    {
+      "name": "omniboard",
+      "description": "A live checklist of Claude's plan that you can edit while it works (micro-steps, skip, reorder; finished sections locked), its subagents and background tasks, and session statistics in a local browser board.",
+      "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/omniboard.git" },
+      "category": "productivity",
+      "keywords": ["plan", "checklist", "subagents", "statistics", "dashboard", "mod"]
     }
   ]
 }
