@@ -41,6 +41,13 @@
       "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/downtime.git" },
       "category": "productivity",
       "keywords": ["downtime", "windows", "waiting", "background", "mod"]
+    },
+    {
+      "name": "sound-alerts",
+      "description": "Notification sounds for Claude Code: when Claude finishes, asks you something, needs a permission, runs tests or hits a limit. Two presets come with it, and a preset of your own is a folder of .wav files.",
+      "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/sound-alerts.git" },
+      "category": "productivity",
+      "keywords": ["sound", "notification", "alert", "audio", "mod"]
     }
   ]
 }
