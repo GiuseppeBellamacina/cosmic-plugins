@@ -30,10 +30,17 @@
     },
     {
       "name": "omniboard",
-      "description": "A live checklist of Claude's plan that you can edit while it works (micro-steps, skip, reorder; finished sections locked), its subagents and background tasks, and session statistics in a local browser board.",
+      "description": "Claude's plan in a local browser board you can edit while it works (micro-steps, skip, reorder, stop; finished sections locked), with its progress above the prompt, its subagents and background tasks, and session statistics.",
       "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/omniboard.git" },
       "category": "productivity",
       "keywords": ["plan", "checklist", "subagents", "statistics", "dashboard", "mod"]
+    },
+    {
+      "name": "downtime",
+      "description": "While Claude works, opens the windows you chose (a feed, a film, a PDF, a program you confirmed) and minimizes them when Claude needs you or is done. Claude can open and minimize them on request.",
+      "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/downtime.git" },
+      "category": "productivity",
+      "keywords": ["downtime", "windows", "waiting", "background", "mod"]
     }
   ]
 }
