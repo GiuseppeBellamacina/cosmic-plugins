@@ -48,6 +48,13 @@
       "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/sound-alerts.git" },
       "category": "productivity",
       "keywords": ["sound", "notification", "alert", "audio", "mod"]
+    },
+    {
+      "name": "session-manager",
+      "description": "Every Claude Code session on the computer in one local page and in /sessions: open one, move it (or a whole project) to another folder, delete it, or delete the orphans whose folder is gone, to the system trash and always after a preview you confirm.",
+      "source": { "source": "url", "url": "https://github.com/GiuseppeBellamacina/session-manager.git" },
+      "category": "productivity",
+      "keywords": ["sessions", "resume", "move", "cleanup", "mod"]
     }
   ]
 }
